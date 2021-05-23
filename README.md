@@ -1,1 +1,1 @@
-# bagging-boosting-and-stacking
+# Bagging, Boosting and Stacking in ML
