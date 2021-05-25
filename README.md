@@ -17,4 +17,10 @@ Types of Boosting:
 
 * AdaBoost
 
-Adaptive Boosting
+Adaptive Boosting is a type of boosting algorithm where the predictors concentrates on cases on which the previous learner has underfitted thus making the learners
+progressively stronger and deal with harder and harder cases.
+
+* Gradient Boost
+
+It's the second type of boosting in the predcitor focusses more on the resudual error of the previous predictor. So instead of updating weights after every predictors output
+it works on residual errors between predictions of the predecessor and the truth values.
