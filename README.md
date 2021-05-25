@@ -29,4 +29,5 @@ It's the second type of boosting in the predcitor focusses more on the resudual 
 it works on residual errors between predictions of the predecessor and the truth values.
 
 <h3>Bagging and Boosting difference</h3>
+
 ![](visuals/Diff_bagging_boosting.png)
