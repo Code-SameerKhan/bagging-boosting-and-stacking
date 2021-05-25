@@ -39,3 +39,7 @@ Stacked generalization means the idea of instead of using trivial functions such
 we train a model to perform these aggregations. Final model known as meta learner or blender takes predictions from predecessor models as input and makes final prediction.
 
 ![](visuals/stacking.png)
+
+
+Notebook Demo
+![](visuals/bagging-boosting-and-stacking_Bagging, Boosting and Stacking in Ensemble learning.ipynb at main · Code-SameerKhan_bagging-boosting-and-stacking - Google Chrome 2021-05-25 17-59-30.mp4)
