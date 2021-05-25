@@ -28,4 +28,5 @@ progressively stronger and deal with harder and harder cases.
 It's the second type of boosting in the predcitor focusses more on the resudual error of the previous predictor. So instead of updating weights after every predictors output
 it works on residual errors between predictions of the predecessor and the truth values.
 
-!["Difference between Bagging and Boosting"](visuals/Diff_bagging_boosting.png)
+<h3>Bagging and Boosting difference</h3>
+![](visuals/Diff_bagging_boosting.png)
