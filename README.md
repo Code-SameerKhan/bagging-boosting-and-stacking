@@ -31,3 +31,11 @@ it works on residual errors between predictions of the predecessor and the truth
 <h3>Bagging and Boosting difference</h3>
 
 ![](visuals/Diff_bagging_boosting.png)
+
+
+<h2>STACKING</h2>
+
+Stacked generalization means the idea of instead of using trivial functions such as hard voting to aggregate the predictions all predictions in an ensemble, 
+we train a model to perform these aggregations. Final model known as meta learner or blender takes predictions from predecessor models as input and makes final prediction.
+
+![](visuals/stacking.png)
