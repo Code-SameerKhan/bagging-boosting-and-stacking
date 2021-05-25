@@ -13,7 +13,7 @@ Bootstrap aggregating, also called bagging (from bootstrap aggregating), is a ma
 In machine learning, boosting is an ensemble meta-algorithm for primarily reducing bias, and also variance in supervised learning, and a family of machine learning algorithms that convert weak learners to strong ones. A weak learner is defined to be a classifier that is only slightly correlated with the true classification (it can label examples better than random guessing). In contrast, a strong learner is a classifier that is arbitrarily well-correlated with the true classification.
 
 
-![](Visuals/220px-Ensemble_Boosting.svg.png)
+![](visuals/220px-Ensemble_Boosting.svg.png)
 
 Types of Boosting:
 
@@ -27,3 +27,5 @@ progressively stronger and deal with harder and harder cases.
 
 It's the second type of boosting in the predcitor focusses more on the resudual error of the previous predictor. So instead of updating weights after every predictors output
 it works on residual errors between predictions of the predecessor and the truth values.
+
+!["Difference between Bagging and Boosting"](visuals/Diff_bagging_boosting.png)
